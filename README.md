@@ -5,6 +5,7 @@ A medical research company believes that there might be distinct groups of patie
 Starting with raw data, I will first prepare it to fit the machine learning models. Several clustering algorithms will be used to explore whether the patients can be placed into distinct groups. Following the models, I created a visualization to share my findings.
 
 ![Myopia](img/Myopia.jpg)
+
 image source: https://eyehealthconsultants.com/eye-care/myopia
 
 Process:
@@ -14,9 +15,9 @@ Part 3: Perform a Cluster Analysis with K-means
 Part 4: Make a Recommendation
 
 
-![elbow](img/elbow.jomg)
+![elbow](img/elbow.png)
 
-![final_clusters](img/final_clusters.jpg)
+![final_clusters](img/final_clusters.png)
 
 
 
