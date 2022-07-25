@@ -23,7 +23,7 @@ I created an elbow plot to identify the best number of clusters, which is shown 
 ![elbow](img/elbow.png)
 
 Part 4: Make a Recommendation  
-I used the K-means model to add a class column to the data set, then updated my scatter plots to color the clusters by class. It does appear that we could further analyze the data based on five groups of patients. The final plot is shown below.
+I used the K-means model to add a class column to the data set, then updated my scatter plot to color the clusters by class. It does appear that we could further analyze the data based on five groups of patients. The final plot is shown below.
 
 ![final_clusters](img/final_clusters.png)
 
